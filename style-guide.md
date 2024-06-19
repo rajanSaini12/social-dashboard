@@ -49,7 +49,7 @@ The designs were created to the following widths:
 
 ### Body Copy
 
-- Font size (Overview Card Headings): 14px
+- Font size (Overview Card Headings): 13px
 
 ### Font
 
